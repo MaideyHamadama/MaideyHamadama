@@ -1,5 +1,23 @@
-- 👋 Hi, I’m @MaideyHamadama
-- 👀 I’m interested in all IT Technologies.
-- 🌱 I’m currently learning web, mobile, desktop and embedded system development. Hacking and computers networking are not aside too...
-- 💞️ I’m looking to collaborate on all IT projects.
-- 📫 You can reach me throught my [website](https://machadi-portfolio.herokuapp.com), [twitter](https://twitter.com/machadi1101)
+- 👋 Hi, I’m @MaideyHamadama!
+- 📚 As a versatile professional in telecommunications and IT, I excel in web development with Laravel and Django, and am skilled in PostgreSQL, MySQL, SQLite, C, C#, C++, Java, and Python.
+- 🌍 My background includes roles at Cameroon Telecommunication (CAMTEL), Cameroon Public Health Emergency Operations Centre (PHEOC), Cameroon Neptune Oil, and Elizabeth Glaser Pediatric Aids Foundation.
+- 🛠️ Skills & Technologies:
+  - Web Development: Laravel, Django
+  - Databases: PostgreSQL, MySQL, SQLite
+  - Programming Languages: Python, C, C#, C++, Java
+  - Cloud & DevOps: Google Cloud, Docker
+  - Networking & Security: CCNA, CompTIA Healthcare IT
+- 🌟 Key Projects:
+  - [Cameroon PHEOC Web Application](https://ccousp.cm) – Developed to share and communicate on public health emergencies with the world.
+  - [Public Health Emergencies Management Dashboard](https://dashboard.ccousp.cm) – Designed for Cameroon's real-time public health data visualization.
+- 🌟 Interests:
+  - Exploring new technologies
+  - Contributing to open-source projects
+  - Learning about cybersecurity and emerging tech trends
+- 🌐 Contributions:
+  - Active contributor to Open Source Project
+  - Speaker at local tech meetups and conferences
+- 📫 Connect with me:
+  - [Website](https://machadi-portfolio.herokuapp.com)
+  - [Twitter](https://twitter.com/machadi1101)
+  - [LinkedIn](https://linkedin.com/in/dilane-christian-0464b3193)
